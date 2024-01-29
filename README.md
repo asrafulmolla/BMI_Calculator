@@ -5,5 +5,5 @@
 
 <h2 align="left">Open terminal and run</h2>
 <h3>
-- Any C++ compiler : <a href="https://www.programiz.com/cpp-programming/online-compiler/">Run Temperature converter</a>
+- Any C++ compiler : Run<a href="https://www.programiz.com/cpp-programming/online-compiler/"> BMI Calculator</a>
 </h3>
